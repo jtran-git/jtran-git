@@ -1,5 +1,5 @@
 # About Me:
-Hello! My name is Justin and I'm a Senior Software Engineer at Aloyce Technologies Inc.<br>💼 I work as a team lead for the aPhone on the Roblox platform.<br>💬 Interested in working with me? Contact me at jtran@aloyce.com!
+Hello! My name is Justin and I'm a Senior Software Engineer at Aloyce Technologies Inc.<br>💼 I work as team lead for many API services and maintaince revolving around operations.<br>💬 Interested in working with me? Contact me at jtran@aloyce.com
 
 
 ## 🌐 Socials:
